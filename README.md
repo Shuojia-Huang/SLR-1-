@@ -1,4 +1,4 @@
-grammar.h grammar.cpp 为核心代码
+grammar.h grammar.cpp 为核心代码</br>
 mywindow.h mywindow.cpp 为可视化代码
 .o文件不管就行
 grammar.txt为输入文件
